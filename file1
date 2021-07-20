@@ -1,2 +1,7 @@
 i'm learning git ang github
 echo " hi how r u"
+remote: Enumerating objects: 6, done.
+remote: Counting objects: 100% (6/6), done.
+remote: Compressing objects: 100% (2/2), done.
+remote: Total 6 (delta 0), reused 6 (delta 0), pack-reused 0
+Unpacking objects: 100% (6/6), 438 bytes | 438.00 KiB/s, done.
